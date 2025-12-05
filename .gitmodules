@@ -2,3 +2,6 @@
 	path = third_party/glm
 	url = https://github.com/yzm-dev/glm.git
 	shallow = true
+	update = checkout
+	branch = master
+	
